@@ -1,0 +1,60 @@
+
+
+body{
+    background-color: #EFFBFF;
+    text-align: center;
+    align-items: center;
+}
+.hello{
+    font-size: 60px;
+}
+.box{
+    
+    border-radius: 5%;
+    border: 5px solid black;
+    background-color: #CEFFFF;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 100px;
+    height: 700px;
+}
+.what{
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Jua', sans-serif;
+}
+.menu{
+    padding-top: 20px;
+    padding-bottom: 20%;
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Jua', sans-serif;
+    
+}
+#menu_name{
+    margin-top: 30%;
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Jua', sans-serif;
+}
+.button{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: -150px;
+    height: 50px;
+    width: 300px;
+    font-size: 30px;
+    
+    font-family: sans-serif;
+    background-color: #E0B8E0;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Jua', sans-serif;
+}
